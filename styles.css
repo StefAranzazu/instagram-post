@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: black;
 }
@@ -59,4 +60,50 @@ body{
 }
 .caption{
     margin: 15px;
+=======
+.head{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   height: 50px;
+}
+.feed{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(210, 212, 218);
+}
+.post{
+    width: 500px;
+    background-color: white;
+    margin: 20px;
+    align-items: center;
+   
+}
+.posthead{
+    display: flex;
+    width: 500px;
+    height: 50px;
+    border-color: gray;
+}
+strong{
+    width: 420px;
+   margin-left: 20px;
+   margin-top: 15px;
+   font-size: 22px;
+}
+.photo
+img{
+    width: 500px;
+}
+.caption{
+    padding: 10px;
+    border-color: gray;
+    background-color: white;
+}
+p{
+    color: grey;
+>>>>>>> af10a2b9388dde7602311d5f852f2021ff7d9de6
 }
