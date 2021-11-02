@@ -1,66 +1,5 @@
-<<<<<<< HEAD
-body{
-    background-color: black;
-}
-.post{
-    background-color: white;
-    display:flex;
-    flex-direction: column;
-    align-items: center;
-    align-content: center;
-    justify-content: center;
-    margin: auto;
-    width: 400px;
-    height: 500px;
-    font-family: 'Roboto', sans-serif;
-   
-}
-.headpost{
-    display: flex;
-    flex-direction: row;
-    margin-top: 5px;
-    width: 400px;
-    height: 50px;
-}
-.logo{
-    display: flex;
-    width: 25px;
-    height: 25px;
-    margin: 5px;
 
-}
-.fas {
-    display: flex;
-    margin-left: 280px;
-    margin-top: 8px;
-}
-.postImg img{
-    
-    width: 400px;
-    height: 220px;
-    
-}
-.social{
-    margin: 5px;
-}
-.far{
-    width: 30px;
-    height: 30px;
-    margin: none;
-    font-size: 25px;
-}
-.fa-bookmark{
-   
-    margin-left: 255px;
-    
-}
-.likes{
-    margin-left: 12px;
-    margin-right: 12px;
-}
-.caption{
-    margin: 15px;
-=======
+
 .head{
     display: flex;
    justify-content: center;
@@ -105,5 +44,5 @@ img{
 }
 p{
     color: grey;
->>>>>>> af10a2b9388dde7602311d5f852f2021ff7d9de6
+
 }
